@@ -1,8 +1,3 @@
-# Ieee login page
- Here's a rewritten version of the `README.md` tailored to your project:
-
----
-
 # IEEE AIUB Student Branch Login Page
 
 This is a login page project for the **IEEE AIUB Student Branch** built using **Next.js**, **Shadcn UI**, and **Tailwind CSS**.
@@ -79,7 +74,3 @@ To learn more about the tools and frameworks used in this project, check out the
 ## Deployment
 
 To deploy this project, the easiest method is to use the [Vercel Platform](https://vercel.com) from the creators of Next.js. You can follow the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for detailed instructions.
-
----
-
-Let me know if you'd like to add any more specific details or need further adjustments!
